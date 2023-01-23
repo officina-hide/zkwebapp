@@ -6,7 +6,6 @@ import org.zkoss.zk.ui.event.Event;
 import org.zkoss.zk.ui.event.EventListener;
 import org.zkoss.zk.ui.metainfo.PageDefinition;
 import org.zkoss.zul.Borderlayout;
-import org.zkoss.zul.East;
 import org.zkoss.zul.Window;
 
 public class AdempiereWebUI extends Window implements EventListener<Event> {
